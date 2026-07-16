@@ -1,0 +1,50 @@
+{ 
+    "manifest": { 
+        "version": "1.0.0", 
+        "author": "Sakiro64", 
+        "license": "CEA", 
+        "name": "HT", 
+        "updater": "https:\/\/raw.githubusercontent.com\/Sakiro64\/My-Aliucord-Themes\/refs\/heads\/main\/HKTheme.json" 
+    }, 
+    "background": { 
+        "overlay_alpha": 120, 
+        "url": "https://i.imgur.com/63g6Em8.jpg", 
+        "blur_radius": 1 
+    }, 
+    "fonts": { 
+        "*": "https:\/\/github.com\/Sakiro64\/Separated-fonts-and-sounds-for-my-themes\/raw\/refs\/heads\/main\/Romanica.ttf" 
+    }, 
+    "simple_colors": { 
+        "active_channel": -1977123123, 
+        "accent": -467178291, 
+        "mention_highlight": 637681285, 
+        "background_secondary": 185361300, 
+        "background": 118575773 
+    }, 
+    "colors": { 
+        "brand": -15506775, 
+        "brand_new_500": -13989417, 
+        "primary_dark_400": -1088791912, 
+        "primary_dark_360": -670077752, 
+        "uikit_btn_compound_color_selector_dark": -16740921, 
+        "primary_dark_300": -251043898, 
+        "uikit_btn_compound_color_selector_light": -1726452538, 
+        "uikit_settings_item_text_color_dark": -653606935, 
+        "uikit_settings_item_text_color_light": -1727043924, 
+        "abc_tint_switch_track": -1607762510, 
+        "link": -12611880, 
+        "link_500": -12745754, 
+        "primary_dark_200": -2564386, 
+        "white_500": -1 
+    }, 
+    "drawable_tints": { 
+        "ic_sidebar_notifications_on_dark_24dp": -250449708, 
+        "ic_sidebar_notifications_off_dark_24dp": -217891471, 
+        "ic_sidebar_pins_off_dark_24dp": -250449708, 
+        "ic_sidebar_pins_on_dark_24dp": -250449708, 
+        "ic_thread": -1105565778, 
+        "drawable_overlay_channels_selected_dark": 385931492, 
+        "drawable_overlay_channels_dark": 622031278 
+    }, 
+    "raws": {} 
+}
